@@ -45,6 +45,7 @@
   <ItemGroup>
     <Compile Include="Class2.cs" />
     <Compile Include="Class1.cs" />
+    <Compile Include="dummclass.cs" />
     <Compile Include="Mia_Class.cs" />
     <Compile Include="newclassfromnewbranch.cs" />
     <Compile Include="Program.cs" />
