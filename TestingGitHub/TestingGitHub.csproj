@@ -43,6 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ChiarasClass.cs" />
     <Compile Include="Class1.cs" />
     <Compile Include="NewClass.cs" />
     <Compile Include="newMerge.cs" />
