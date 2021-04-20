@@ -45,6 +45,7 @@
   <ItemGroup>
     <Compile Include="ChiarasClass.cs" />
     <Compile Include="Class1.cs" />
+    <Compile Include="MatthewClass.cs" />
     <Compile Include="MicahsClass.cs" />
     <Compile Include="NewClass.cs" />
     <Compile Include="newMerge.cs" />
