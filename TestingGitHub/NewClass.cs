@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace TestingGitHub
 {
-    class Mia_Class
+    class NewClass
     {
     }
 }

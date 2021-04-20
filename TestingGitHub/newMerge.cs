@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace TestingGitHub
 {
-    class testclass
+    class newMerge
     {
     }
 }
